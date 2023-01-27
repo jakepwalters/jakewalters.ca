@@ -6,4 +6,10 @@ html {
     font-weight: 400;
     font-style: normal;
     letter-spacing: .1rem;
+    background-color: #EDE4E0;
+}
+
+button {
+    color: rgba(255,204,0,.6);
+    border-color: rgba(255,204,0,.15);;
 }
